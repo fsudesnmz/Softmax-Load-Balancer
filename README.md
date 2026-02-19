@@ -271,6 +271,6 @@ sunmaktadır.
 
 # 📜 Lisans
 
-MIT License (isteğe göre değiştirilebilir)
+MIT License 
 
 ---
